@@ -1,7 +1,7 @@
 [
 {"name":"flare.Fran","size":3938,"imports":["flare.Shamit","flare.Bob"]},
 {"name":"flare.Shamit","size":3812,"imports":["flare.Fran","flare.Bob"]},
-{"name":"flare.Bob","size":6714,"imports":["flare.Fran","flare.Shamit"]},
+{"name":"flare.Bob","size":6734,"imports":["flare.Fran","flare.Shamit"]},
 {"name":"flare.Richard","size":6714,"imports":["flare.Fran","flare.Shamit"]},
-{"name":"flare.Jat","size":6714,"imports":["flare.Fran","flare.Shamit","flare.Bob"]}  
+{"name":"flare.Jat","size":6514,"imports":["flare.Fran","flare.Shamit","flare.Bob"]}  
 ]
